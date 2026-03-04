@@ -1,0 +1,2 @@
+# DESIGN-AND-COMPARATIVE-ANALYSIS-OF-DUAL-BUFFER-ARCHITECTURE-FOR-HIGH-SPEED-COMMUNICATION-SYSTEM
+This focuses on improving data transfer efficiency using a dual buffer architecture. The system allows simultaneous read and write operations, reducing latency and increasing throughput in high-speed communication systems. It is designed and simulated using Verilog HDL to compare the performance with traditional single buffer architectures
